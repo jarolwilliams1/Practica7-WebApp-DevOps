@@ -1,0 +1,25 @@
+{
+  "name": "practica7-webapp-devops",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+        "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jarolwilliams1/Practica7-WebApp-DevOps.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/jarolwilliams1/Practica7-WebApp-DevOps/issues"
+  },
+  "homepage": "https://github.com/jarolwilliams1/Practica7-WebApp-DevOps#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+        "mysql2": "^3.6.0"
+  }
+}
